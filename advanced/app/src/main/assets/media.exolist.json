@@ -1,0 +1,26 @@
+[
+  {
+    "type" : "streaming",
+    "uri": "http://content name/stream.mpd",
+    "name": "content name",
+    "drmSchemeUuid": "widevine",
+    "drmLicenseUrl": "http://license.pallycon.com/ri/licenseManager.do",
+    "userId": "user id",
+    "cid": "content id",
+    "oid": "order id",
+    "token": "",
+    "multiSession": false
+  },
+  {
+    "type" : "download",
+    "uri": "http://content name/stream.mpd",
+    "name": "content name",
+    "drmSchemeUuid": "widevine",
+    "drmLicenseUrl": "http://license.pallycon.com/ri/licenseManager.do",
+    "userId": "user id",
+    "cid": "content id",
+    "oid": "order id",
+    "token": "",
+    "multiSession": false
+  }
+]
